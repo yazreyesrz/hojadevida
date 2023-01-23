@@ -1,0 +1,56 @@
+#f2{
+    width: 360px;
+    height: 350px;
+    right: 10%;
+
+}
+
+#f3{
+    width: 330px;
+    height: 310px;
+    
+    
+}
+
+#Caja2{
+    
+    padding-top: 7%;
+    width:50%; 
+    display:inline-block;
+}
+
+#Caja3{
+    padding-top: 7%;
+    width: min-content;
+    height: 1000px;
+
+}
+
+#just{
+    text-align: justify;
+}
+
+#Sub{
+    text-align: center;
+}
+
+#tec{
+    color: #5DC460 ;
+    font-size: 300%;
+    text-align: center;
+}
+
+#Lista{
+    text-align: right;
+    padding-right: 10%;
+    color: #000000;
+    list-style-type: decimal-leading-zero;
+    font-size: 200%;
+    position: relative;
+}
+
+.contenedor-flexbox {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}

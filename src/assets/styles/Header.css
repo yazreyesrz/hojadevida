@@ -1,0 +1,18 @@
+
+header {
+    border: 3px #5DC460 solid;
+    display: flex;
+    justify-content:space-between;
+    padding: 0 4px;
+    background-color: rgb(225, 225, 247);
+    color: #5DC460 ;
+}
+
+img{
+    width: 180 px;
+    height: 150px;
+    border-radius: 32px;
+}
+
+
+    
